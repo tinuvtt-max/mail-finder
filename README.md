@@ -16,3 +16,4 @@
 正式部署必須使用 HTTPS，並在 Google OAuth 憑證中加入完全相同的網域來源。若使用多個網域，請逐一加入。
 
 本頁使用 Google Identity Services 的登入憑證在瀏覽器顯示信箱，適合查詢用途。若要把登入結果儲存為會員資料，應再由後端驗證 Google 憑證，不應只信任瀏覽器內容。
+Deployment update
